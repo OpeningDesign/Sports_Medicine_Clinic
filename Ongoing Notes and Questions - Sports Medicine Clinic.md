@@ -1,0 +1,44 @@
+- Sports Medicine Clinic. 
+	- Similar to: https://www.issmadison.com/
+	- Chiropractic services
+
+
+- **Group A-4 (Assembly) Occupancy with 100 total occupants** (In the main facility there was a not-to-exceed occupancy sign that said 100 occupants)
+	- 100 x 50% = 50 (50 males and 50 females)
+	- Water Closets: 
+		- Women: *1 per 40 for the first 1,520 and 1 per 60 for the remainder exceeding 1,520*
+			- 50 x 1/40 = 1.25 water closets
+		- Men: *1 per 75 for the first 1,500 and 1 per 120 for the remainder exceeding 1,500*
+			- 50 x 1/75 = 0.67 water closets
+	- Lavatories: 
+		- Women: ratio 1 per 200
+			- 50 x 1/150 = 0.33 lavatories
+		- Men:
+			- 50 x 1/200 = 0.25 lavatories
+	- Drinking Fountains: ratio 1 per 1000
+		- 100 x 1/1000 = 0.1 drinking fountain
+
+- **Group B (Business) Occupancy with 12 total occupants** (1200sf/100 SF per occupant = 12)
+	- 12 x 50% = 6 (6 males and 6 females)
+	- Water Closets: 1 per 25 for the first 50 and 1 per 50 for the remainder exceeding 50
+		- Women: 6 x 1/25 = 0.24 water closets
+		- Men: 6 x 1/25 = 0.24 water closets
+	- Lavatories: *1 per 40 for the first 80 and 1 per 80 for the remainder exceeding 80*
+		- Women: 6 x 1/40 = 0.15 lavatories
+		- Men: 6 x 1/40 = 0.15 lavatories
+	- Drinking Fountains: ratio 1 per 100
+		- 12 x 1/100 = 0.12 drinking fountain
+
+- Summary
+	- Water Closets:
+		- Women: 1.25 + 0.24 = 1.49 = 2
+			- Currently the facility has (2) Water Closets in Women's room
+		- Men: 0.67 + 0.24 = 0.91 = 1
+			- Currently the facility has (2) Water Closets in Men's room
+	- Lavatories:
+		- Women: 0.33 + 0.15 =  0.48 = 1
+			- Currently the facility has (1) Lavatory in Women's room
+		- Men: 0.25 + 0.15 =  0.35 = 1
+			- Currently the facility has (1) Lavatory in Men's room
+	- Drinking Fountains: 0.1 + 0.12 = 0.22 = 1
+	- Service Sink: 1 per building
